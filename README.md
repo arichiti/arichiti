@@ -1,6 +1,6 @@
 - 🖐🏼 Ciao, I’m Ari!
-- 🎓 I’m a PhD student at the University of Stirling on the behavioural ecology of parasitoid wasps.
-- 🐝 I’m interested in sexual selection, with a particular bias for sexual conflict and its consequences on population dynamics.
+- 🎓 I’m a PhD student in behavioural ecology of parasitoid wasps at Stirling University.
+- 🐝 I’m interested in reproductive conflicts between the sexes and their repercussion on population dynamics and species interactions.
 - 🎨 If I am not in the lab, I have fun illustrating what I study!  
 - 📫 Reach me on Twitter @ChitiArianna.
 
